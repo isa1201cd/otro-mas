@@ -1,5 +1,5 @@
 >html<
 >body<
-
+la plata es plata
 >/body<
 >/html<
